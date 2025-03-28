@@ -4,7 +4,7 @@
 
 This game is inspired by the famous cognitive research study featuring Ayumu, a chimpanzee at the Primate Research Institute of Kyoto University. Ayumu demonstrated remarkable working memory capabilities that often exceeded those of human adults in rapid memory tasks.
 
-![Ayumu the chimp](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ai_and_Ayumu_2.jpg/320px-Ai_and_Ayumu_2.jpg)
+https://www.youtube.com/watch?v=zsXP8qeFF6A
 
 ## 🎮 The Game
 
@@ -38,14 +38,13 @@ Challenge yourself against Ayumu's legendary memory skills! This game recreates 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ayumu-memory-game.git
+git clone https://github.com/utopiazh/ayumu.git
 
 # Navigate to the project directory
-cd ayumu-memory-game
+cd ayumu
 
 # Install required packages
-pip install pygame
-```
+pip install -r requirements.txt
 
 ### Running the Game
 
